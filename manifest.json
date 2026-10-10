@@ -1,14 +1,14 @@
 {
-  "version": "0.2.15",
+  "version": "0.2.16",
   "notes": "",
-  "released": 1791580484,
+  "released": 1791592806,
   "builds": {
     "waveshare_esp32s3_eth": {
-      "url": "https://raw.githubusercontent.com/Whommbat/filterbox-releases/main/firmware/waveshare_esp32s3_eth-0.2.15.bin",
-      "sha256": "929da129d1ff325cd151e8ca6c890d5413bcf54194a959afa634090e8f8ac4c4",
-      "size": 3403344,
-      "released": 1791580484,
-      "sig": "MEQCIFIG04u+zA7MuXcuoFF3wik+kqug8OhEJdu0VsXdwd7XAiB6vu27HgdHA+v0o9qpmiSblwir3AqxbXQOPBeWqG34RA=="
+      "url": "https://raw.githubusercontent.com/Whommbat/filterbox-releases/main/firmware/waveshare_esp32s3_eth-0.2.16.bin",
+      "sha256": "b52511beabaa29d5dfe094e02e78e9c7f6d94f8786b2b068b43986d040b8c730",
+      "size": 3404640,
+      "released": 1791592806,
+      "sig": "MEUCIQCkFgewbfJuRsH+vsKWEkAAJU1XBXpb0CVwVowqxza9YQIgbvYm33w/bE71JAV7lbEC7r7HPtbHhWMOT5y42S80XtM="
     }
   },
   "lists": {
